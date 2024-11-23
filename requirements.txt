@@ -1,6 +1,17 @@
+# Web frameworks
 flask
+falcon==3.1.1
+gunicorn
+
+# Messaging and APIs
 kafka-python
+google-api-python-client
+
+# Data processing and ML
 pandas
 numpy
-google-api-python-client
 scikit-learn
+joblib
+
+# Version control
+git
